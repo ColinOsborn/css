@@ -8,7 +8,7 @@ p{
   font-size: 2rem;
   padding; 0 5rem;
   text-shadow: 1px 1px #333;
-  color: #29374f;
+  color: #344d77;
 }
 
 section {
@@ -42,4 +42,8 @@ section:nth-of-type(4) {
 
 section:nth-of-type(5) {
   background-image: url('https://unsplash.it/1024/683?image=1047')
+}
+
+section:nth-of-type(6) {
+  background-image: url('https://unsplash.it/1024/687')
 }
